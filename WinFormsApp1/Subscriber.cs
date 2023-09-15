@@ -43,7 +43,7 @@ namespace WinFormsApp1
 			{
 				if (value.Length<10)
 				{
-					throw new ArgumentException("number is incorrect ");
+					throw new ArgumentException("number is incorrectt");
 
 
 				}
