@@ -72,10 +72,10 @@ namespace WinFormsApp1
 		public Subscriber(string firstname, string lastname, string cellphone, string code)
 
 		{
-			_firstname = firstname;	
-			_lastname = lastname;
-			_cellphone = cellphone;
-			_code = code;
+			this.FirstName = firstname;
+			this.LastName = lastname;
+			this.CellPhone = cellphone;
+			this.Code = code;
 
 		}
 
